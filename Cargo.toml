@@ -1,0 +1,12 @@
+[package]
+name = "port"
+description = "check or get available port"
+version = "0.0.1-pre.1"
+edition = "2021"
+license = "MIT"
+homepage = "https://github.com/tgex"
+keywords = ["port", "network"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
